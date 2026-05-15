@@ -1,4 +1,4 @@
-package com.example.android_mouse_keeper
+package com.example.android_house_keeper
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -15,8 +15,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import com.example.android_mouse_keeper.api.HouseKeeperAPIClient
-import com.example.android_mouse_keeper.models.HouseAlert
+import com.example.android_house_keeper.api.HouseKeeperAPIClient
+import com.example.android_house_keeper.models.HouseAlert
 import kotlinx.coroutines.launch
 
 /**

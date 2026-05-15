@@ -1,4 +1,4 @@
-package com.example.android_mouse_keeper
+package com.example.android_house_keeper
 
 import org.junit.Test
 

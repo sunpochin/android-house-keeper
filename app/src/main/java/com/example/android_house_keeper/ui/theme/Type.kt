@@ -1,4 +1,4 @@
-package com.example.android_mouse_keeper.ui.theme
+package com.example.android_house_keeper.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

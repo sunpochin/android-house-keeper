@@ -1,7 +1,7 @@
-package com.example.android_mouse_keeper.api
+package com.example.android_house_keeper.api
 
-import com.example.android_mouse_keeper.models.HouseAlert
-import com.example.android_mouse_keeper.models.PropertyStatus
+import com.example.android_house_keeper.models.HouseAlert
+import com.example.android_house_keeper.models.PropertyStatus
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import retrofit2.http.GET

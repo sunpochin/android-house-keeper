@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.android_mouse_keeper"
+    namespace = "com.example.android_house_keeper"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.android_mouse_keeper"
+        applicationId = "com.example.android_house_keeper"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

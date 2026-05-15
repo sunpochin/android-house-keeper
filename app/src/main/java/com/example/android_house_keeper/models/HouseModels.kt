@@ -1,4 +1,4 @@
-package com.example.android_mouse_keeper.models
+package com.example.android_house_keeper.models
 
 /**
  * 房屋警示模型 (HouseAlert)
